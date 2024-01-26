@@ -7,7 +7,7 @@
 
 - :house: Based in Orange County, California.
 - :computer: Software Engineer.
-- :dart: Currently working on my personal project: Grocery-Guru.
+- :dart: Currently working on conversing my AJAX project 'Popular Anime Viewer' into a new and improved React project 'Anime Almanac'!
 - 📫 How to reach me: kaylovrich@gmail.com
 ---
 
