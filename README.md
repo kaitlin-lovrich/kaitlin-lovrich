@@ -15,7 +15,7 @@
 
 ```JavaScript
 const KAITLIN = {
-  frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "CSS"],
+  frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Tailwind CSS", "Raw CSS"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
   design: ["Figma"],
