@@ -7,7 +7,7 @@
 
 - :house: Based in Orange County, California.
 - :computer: Software Engineer.
-- :dart: Currently working on converting my `AJAX` project `Popular Anime Viewer` into a new and improved `React` project `Anime Almanac`!
+- :dart: Currently working on Leetcode practice for technical interviews!
 - 📫 How to reach me: kaylovrich@gmail.com
 ---
 
@@ -15,9 +15,9 @@
 
 ```JavaScript
 const KAITLIN = {
-  frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Tailwind CSS", "Raw CSS"],
-  backend: ["Expressjs", "Nodejs", "PostreSQL"],
-  deployment: ["AWS", "GH-Pages"],
+  frontend: ["TypeScript", "JavaScript", "HTML", "React", "Tailwind CSS", Next.js],
+  backend: ["Express.js", "Node.js", "PostreSQL"],
+  deployment: ["AWS", "GH-Pages", "Vercel"],
   design: ["Figma"],
 }
 ```
