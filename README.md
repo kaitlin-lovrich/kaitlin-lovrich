@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/VOUFXDSETndu93Gr0T/giphy.gif" width="50" alt="GIF" style="margin-right: 10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=4000&color=FF26CF&center=true&vCenter=true&width=650&lines=Hello+World!👋+I'm+Kaitlin!;Welcome+to+my+Github!" alt="Typing SVG"/>
 </div>
+<br/>
 
+- <img src="https://github.com/user-attachments/assets/ea850efa-f693-47dc-afe0-547a08173158" alt="kl-logo" width="19" height="18" /> Check out my <a href="https://kaitlin-lovrich-portfolio.vercel.app/" align="left">
+   portfolio
+  </a>
 - 🔗 Let's connect on <a href="https://www.linkedin.com/in/kaitlin-lovrich/" align="left">
    linkedin
   </a>
@@ -24,7 +28,12 @@ const KAITLIN = {
 }
 ```
 
-<p align="center">Feel free to reach out to me on LinkedIn for collaborations, oportunities, or just to chat about the latest in tech! Let's innovate together!</p>
+<div align="center">
+  <p>Feel free to reach out to me on LinkedIn for collaborations, oportunities, or just to chat about the latest in tech!
+    <br/>Let's innovate together!</p>
+  
+</div>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/kaitlin-lovrich/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
