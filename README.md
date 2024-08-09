@@ -1,10 +1,11 @@
-<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/VOUFXDSETndu93Gr0T/giphy.gif" width="50">Hello 👋 I'm Kaitlin</h1>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kaitlin-lovrich/" align="left">
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/VOUFXDSETndu93Gr0T/giphy.gif" width="50" alt="GIF" style="margin-right: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=4000&color=FF26CF&center=true&vCenter=true&width=650&lines=Hello+World!👋+I'm+Kaitlin!;This+is..;..my+Github.." alt="Typing SVG"/>
+</div>
+
+- 🔗 Let's connect on <a href="https://www.linkedin.com/in/kaitlin-lovrich/" align="left">
    linkedin
   </a>
-</p>
-
 - :house: Based in Orange County, California.
 - :computer: Software Engineer.
 - :dart: Currently working on Leetcode practice for technical interviews!
@@ -15,7 +16,7 @@
 
 ```JavaScript
 const KAITLIN = {
-  frontend: ["TypeScript", "JavaScript", "HTML", "React", "Tailwind CSS", Next.js],
+  frontend: ["TypeScript", "JavaScript", "HTML", "React", "Tailwind CSS", "Next.js"],
   backend: ["Express.js", "Node.js", "PostreSQL"],
   deployment: ["AWS", "GH-Pages", "Vercel"],
   design: ["Figma"],
