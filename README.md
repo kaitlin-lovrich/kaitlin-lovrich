@@ -28,11 +28,7 @@ const KAITLIN = {
 }
 ```
 
-<div align="center">
-  <p>Feel free to reach out to me on LinkedIn for collaborations, oportunities, or just to chat about the latest in tech!
-    <br/>Let's innovate together!</p>
-  
-</div>
+<h2 align="left">Feel free to reach out to me on LinkedIn for collaborations, opportunities, or just to chat about the latest in tech! Let's innovate together!</h2>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/kaitlin-lovrich/">
