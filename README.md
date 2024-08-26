@@ -4,6 +4,12 @@
 </div>
 <br/>
 
+<div align="center">
+  <a href="https://kaitlin-lovrich-portfolio.vercel.app/">
+    <img src="https://github.com/user-attachments/assets/e33be05a-809e-47b5-b7a9-0bf865757702" alt="View Portfolio" width="240" height="55" />
+  </a>
+</div>
+
 - <img src="https://github.com/user-attachments/assets/ea850efa-f693-47dc-afe0-547a08173158" alt="kl-logo" width="19" height="18" /> Check out my <a href="https://kaitlin-lovrich-portfolio.vercel.app/" align="left">
    portfolio
   </a>
