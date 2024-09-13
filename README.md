@@ -17,7 +17,7 @@
    linkedin
   </a>
 - :house: Based in Orange County, California.
-- :computer: Software Engineer.
+- :computer: Full Stack Developer.
 - :dart: Currently working on Leetcode practice for technical interviews!
 - 📫 How to reach me: kaylovrich@gmail.com
 ---
